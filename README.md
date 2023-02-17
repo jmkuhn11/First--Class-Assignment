@@ -39,7 +39,4 @@ This is how to test.
 
 Please click on the following link to see my other works in GitHub: https://github.com/jmkuhn11
 
-
-My email address is jmkuhn11@gmail.com. Please reach out to me if you have any questions regarding the projects or professional oppurtunities.
-
-Link:  
+My email address is joshuakuhn2022@u.northwestern.edu. Please reach out to me if you have any questions regarding the projects or professional oppurtunities.
