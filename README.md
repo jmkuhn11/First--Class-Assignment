@@ -11,37 +11,37 @@
 7. [Questions] (##questions)
 
 
-<a name="desc"></a>
+<a id="desc"></a>
 ## Description
 
 Description would go here.
 
-<a name="inst"></a>
+<a id="inst"></a>
 ## Installaion
 
 Installation instructions here.
 
-<a name="usage"></a>
+<a id="usage"></a>
 ## Usage
 
 Usage information here.
 
-<a name="lic"></a>
+<a id="lic"></a>
 ## License
 
 License here.
 
-<a name="cont"></a>
+<a id="cont"></a>
 ## Contributing
 
 Here's how to contribute.
 
-<a name="test"></a>
+<a id="test"></a>
 ## Tests
 
 This is how to test.
 
-<a name="ques"></a>
+<a id="ques"></a>
 ## Questions
 
 githubsername here
