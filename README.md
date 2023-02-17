@@ -2,13 +2,13 @@
 
 ## Table of Contents
 
-1. [Description] (#desc)
-2. [Installation] (#inst)
+1. [Description] (#desciption)
+2. [Installation] (#installation)
 3. [Usage] (#usage)
-4. [License] (#lic)
-5. [Contributing] (#cont)
-6. [Tests] (#test)
-7. [Questions] (#ques)
+4. [License] (#license)
+5. [Contributing] (#contributing)
+6. [Tests] (#tests)
+7. [Questions] (#questions)
 
 
 <a name="desc"></a>
