@@ -14,38 +14,38 @@
 <a name="desc"></a>
 ## Description
 
-${description}
+Description would go here.
 
 <a name="inst"></a>
 ## Installaion
 
-${installation}
+Installation instructions here.
 
 <a name="usage"></a>
 ## Usage
 
-${usage}
+Usage information here.
 
 <a name="lic"></a>
 ## License
 
-${license}
+License here.
 
 <a name="cont"></a>
 ## Contributing
 
-${contributing}
+Here's how to contribute.
 
 <a name="test"></a>
 ## Tests
 
-${tests}
+This is how to test.
 
 <a name="ques"></a>
 ## Questions
 
-${githubUsername}
+githubsername here
 
-${email}
+jmkuhn11@gmail.com
 
 Link:  
