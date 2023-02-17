@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-1. [Description](#desciption)
+1. [Description](##desciption)
 2. [Installation](#installation)
 3. [Usage](#usage)
 4. [License](#license)
