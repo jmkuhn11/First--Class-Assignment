@@ -27,7 +27,7 @@ Usage information here.
 
 ## License
 
-License here.
+THe following license is being used:  MIT
 
 ## Contributing
 
