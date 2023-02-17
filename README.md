@@ -37,8 +37,8 @@ This is how to test.
 
 ## Questions
 
-githubsername here
+Please click on the following link to see my other works in GitHub: githubsername
 
-jmkuhn11@gmail.com
+My email address is jmkuhn11@gmail.com. Please reach out to me if you have any questions regarding the projects or professional oppurtunities.
 
 Link:  
